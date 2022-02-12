@@ -44,11 +44,11 @@
 
 + 🔗 COCOA - 新型コロナウイルス接触確認アプリ / 厚生労働省健康局
   ([App Store](https://apps.apple.com/jp/app/id1516764458),
-+  [Google Play](https://play.google.com/store/apps/details?id=jp.go.mhlw.covid19radar))
+   [Google Play](https://play.google.com/store/apps/details?id=jp.go.mhlw.covid19radar))
 
 + 🔗 新型コロナワクチン接種証明書アプリ / デジタル庁
   ([App Store](https://apps.apple.com/jp/app/id1593815264),
-+  [Google Play](https://play.google.com/store/apps/details?id=jp.go.digital.vrs.vpa)
+   [Google Play](https://play.google.com/store/apps/details?id=jp.go.digital.vrs.vpa)
 
 
 ## 📌 FPGA 関連リポジトリ
@@ -61,7 +61,7 @@
 ## 📌 学会・研究団体 関連
 
 + 🔗 [RECONF](https://www.ieice.org/~reconf/)
-+ 🔗 [RECONF](https://www.am.ics.keio.ac.jp/reconf/)
+    ([Link1](https://www.am.ics.keio.ac.jp/reconf/))
 
 + 🔗 [HEART](http://www.cs.tsukuba.ac.jp/~yoshiki/HEART/)
 
@@ -70,15 +70,15 @@
 + 🔗 [FPT](http://www.icfpt.org/)
 
 + 🔗 [FPT'21 FPGA Design Competition](https://wp.rs.cs.okayama-u.ac.jp/design-contest-fpt2021/)
-+ 🔗 [FPT'21 FPGA Design Competition](https://parallel.auckland.ac.nz/fpt21/)
-+ 🔗 [FPT'21 FPGA Design Competition](https://wwp.shizuoka.ac.jp/fpt-design-contest/ftp2x/)
+    ([Link1](https://parallel.auckland.ac.nz/fpt21/),
+     [Link2](https://wwp.shizuoka.ac.jp/fpt-design-contest/ftp2x/))
 
 + 🔗 [第10回 相磯秀夫杯 FPGAデザインコンテスト](https://wp.rs.cs.okayama-u.ac.jp/design-contest-aiso10/)
-+ 🔗 [第10回 相磯秀夫杯 FPGAデザインコンテスト](https://wwp.shizuoka.ac.jp/fpt-design-contest/aiso10/)
+    ([Link1](https://wwp.shizuoka.ac.jp/fpt-design-contest/aiso10/))
 
 + 🔗 [アダプティブコンピューティング研究推進体(ACRi)](https://www.acri.c.titech.ac.jp/wp/)
-+ 🔗 [アダプティブコンピューティング研究推進体(ACRi) YouTube](https://www.youtube.com/channel/UCL15_5A9JKcVrmFUcMto6-Q)
-+ 🔗 [アダプティブコンピューティング研究推進体(ACRi) Twitter](https://twitter.com/kise_acri)
+    ([YouTube](https://www.youtube.com/channel/UCL15_5A9JKcVrmFUcMto6-Q),
+    [Twitter](https://twitter.com/kise_acri))
 
 + 🔗 [ACRi Blog](https://www.acri.c.titech.ac.jp/wordpress/)
 
