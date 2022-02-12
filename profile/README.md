@@ -8,12 +8,11 @@
      [Wiki](http://slab.cis.nagasaki-u.ac.jp/wiki/))
 
 
-
+## 🐨 大学 関連
 
 <details>
 <summary>
-
-## 🐨 大学 関連
+details
 </summary>
 
 + 🔗 [長崎大学](https://www.nagasaki-u.ac.jp/)
