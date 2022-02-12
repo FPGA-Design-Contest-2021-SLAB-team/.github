@@ -2,8 +2,8 @@
 
 ## 📌 研究室 関連
 
-+ 🔗 [柴田研究室](http://slab.cis.nagasaki-u.ac.jp/)
-+ 🔗 [柴田研究室 YouTube](https://www.youtube.com/channel/UCpryYG30B-3W4KIk7xDqjNg/)
++ 🔗 [柴田研究室](http://slab.cis.nagasaki-u.ac.jp/),
+    [\uf16a](https://www.youtube.com/channel/UCpryYG30B-3W4KIk7xDqjNg/)
 + 🔗 [柴田研究室 GitHub](https://github.com/nu-slab/)
 
 
