@@ -1,5 +1,7 @@
 # 💡 Hi, I'm NU-Slab 👋
 
+---
+
 ## 🐼 研究室 関連
 
 + 🔗 [柴田研究室](http://slab.cis.nagasaki-u.ac.jp/)
@@ -7,7 +9,9 @@
      [GitHub](https://github.com/nu-slab/),
      [Wiki](http://slab.cis.nagasaki-u.ac.jp/wiki/))
 
+
 ## 🐨 大学 関連
+
 <details>
 <summary></summary>
 
@@ -29,17 +33,20 @@
 </details>
 
 
-
-
-
-
 ## 🐻 便利ツール
+
+<details>
+<summary></summary>
 
 + 🔗 [オンラインあみだくじ](https://xn--l8j0c9d.com/)
 + 🔗 [調整さん](https://chouseisan.com/)
+</details>
 
 
 ## 🐷 便利アプリ
+
+<details>
+<summary></summary>
 
 + 🔗 Discord / Discord Inc.
   ([App Store](https://apps.apple.com/jp/app/id985746746),
@@ -53,16 +60,24 @@
 + 🔗 新型コロナワクチン接種証明書アプリ / デジタル庁
   ([App Store](https://apps.apple.com/jp/app/id1593815264),
    [Google Play](https://play.google.com/store/apps/details?id=jp.go.digital.vrs.vpa)
+</details>
 
 
 ## 🐮 FPGA 関連リポジトリ
 
+<details>
+<summary></summary>
+
 + 🔗 [OpenFC - an Open FPGA Cluster Toolkit](https://lut.eee.u-ryukyu.ac.jp/openfc/)
 + 🔗 [ikwzm/udmabuf - GitHub](https://github.com/ikwzm/udmabuf)
 + 🔗 [w3arycod3r/fpga-defender - GitHub](https://github.com/w3arycod3r/fpga-defender)
+</details>
 
 
 ## 🐯 学会・研究団体 関連
+
+<details>
+<summary></summary>
 
 + 🔗 [電子情報通信学会 リコンフィギャラブルシステム研究専門委員会 (IEICE RECONF)](https://www.ieice.org/~reconf/)
     ([1](https://www.am.ics.keio.ac.jp/reconf/))
@@ -78,9 +93,13 @@
     ([YouTube](https://www.youtube.com/channel/UCL15_5A9JKcVrmFUcMto6-Q),
      [Twitter](https://twitter.com/kise_acri),
      [Blog](https://www.acri.c.titech.ac.jp/wordpress/))
+</details>
 
 
 ## 🦊 他大学の FPGA 関連研究室
+
+<details>
+<summary></summary>
 
 + 🔗 [琉球大学 長名研究室](http://mux.eee.u-ryukyu.ac.jp/projects.html.ja)
     ([Twitter](https://twitter.com/debugordie))
@@ -93,9 +112,13 @@
     ([1](https://www.am.ics.keio.ac.jp/wp/),
      [Twitter](https://twitter.com/hungalab))
 + 🔗 [東海大学 大川研究室](https://sites.google.com/view/ohkawalab)
+</details>
 
 
 ## 🐵 おまけ
+
+<details>
+<summary></summary>
 
 + 🔗 河野茂
   ([YouTube](https://www.youtube.com/channel/UCye1weqCkLbKtwmbBIXhD7A),
@@ -116,4 +139,4 @@
 + 🔗 薗田光太郎
   ([YouTube](https://youtube.com/c/KotaroSonoda),
    [GitHub](https://github.com/helmenov))
-
+</details>
