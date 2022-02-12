@@ -12,16 +12,12 @@
 + 🔗 [長崎大学](https://www.nagasaki-u.ac.jp/)
   ([YouTube](https://www.youtube.com/user/NagasakiUniv),
    [Twitter](https://twitter.com/NU_kouhou))
-
 + 🔗 [長崎大学工学部・長崎大学大学院工学研究科](http://www.eng.nagasaki-u.ac.jp)
   ([YouTube](https://www.youtube.com/channel/UCO_xpbwdZi_leI-k_Kjd6Rg))
-
 + 🔗 [長崎大学工学部工学科 情報工学コース](https://www.cis.nagasaki-u.ac.jp/program/contents/index.html)
-
 + 🔗 [長崎大学 情報データ科学部](https://www.idsci.nagasaki-u.ac.jp/)
   ([YouTube](https://www.youtube.com/channel/UCb32qH4nu-Z9K_jVYCZVdjA),
    [Twitter](https://twitter.com/itrecurnagasaki))
-
 + 🔗 [長崎大学 主体的学習促進支援システム | LACS](https://lacs.nagasaki-u.ac.jp/)
 + 🔗 [長崎大学 学務情報システム | NU-Web](https://nuweb.nagasaki-u.ac.jp/)
 + 🔗 [長崎大学 出席管理システム](https://attend.nagasaki-u.ac.jp/)
