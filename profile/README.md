@@ -1,6 +1,6 @@
 # Hi, NU-Slab
 
-## 📌 研究室 関連
+## 🐼 研究室 関連
 
 + 🔗 [柴田研究室](http://slab.cis.nagasaki-u.ac.jp/)
     ([YouTube](https://www.youtube.com/channel/UCpryYG30B-3W4KIk7xDqjNg/),
@@ -8,7 +8,7 @@
      [Wiki](http://slab.cis.nagasaki-u.ac.jp/wiki/))
 
 
-## 📌 大学 関連
+## 🐨 大学 関連
 
 + 🔗 [長崎大学](https://www.nagasaki-u.ac.jp/)
     ([YouTube](https://www.youtube.com/user/NagasakiUniv),
@@ -27,13 +27,13 @@
 + 🔗 [長崎大学 ワクチン接種履歴システム](https://vhs.hc.nagasaki-u.ac.jp/)
 
 
-## 📌 便利ツール
+## 🐻 便利ツール
 
 + 🔗 [オンラインあみだくじ](https://xn--l8j0c9d.com/)
 + 🔗 [調整さん](https://chouseisan.com/)
 
 
-## 📌 便利アプリ
+## 🐷 便利アプリ
 
 + 🔗 Discord / Discord Inc.
   ([App Store](https://apps.apple.com/jp/app/id985746746),
@@ -49,14 +49,14 @@
    [Google Play](https://play.google.com/store/apps/details?id=jp.go.digital.vrs.vpa)
 
 
-## 📌 FPGA 関連リポジトリ
+## 🐮 FPGA 関連リポジトリ
 
 + 🔗 [OpenFC - an Open FPGA Cluster Toolkit](https://lut.eee.u-ryukyu.ac.jp/openfc/)
 + 🔗 [ikwzm / udmabuf](https://github.com/ikwzm/udmabuf)
 + 🔗 [w3arycod3r / fpga-defender](https://github.com/w3arycod3r/fpga-defender)
 
 
-## 📌 学会・研究団体 関連
+## 🐯 学会・研究団体 関連
 
 + 🔗 [電子情報通信学会 リコンフィギャラブルシステム研究専門委員会 (IEICE RECONF)](https://www.ieice.org/~reconf/)
     ([1](https://www.am.ics.keio.ac.jp/reconf/))
@@ -74,7 +74,7 @@
      [Blog](https://www.acri.c.titech.ac.jp/wordpress/))
 
 
-## 📌 他大学の FPGA 関連研究室
+## 🦊 他大学の FPGA 関連研究室
 
 + 🔗 [琉球大学 長名研究室](http://mux.eee.u-ryukyu.ac.jp/projects.html.ja)
     ([Twitter](https://twitter.com/debugordie))
@@ -89,7 +89,7 @@
 + 🔗 [東海大学 大川研究室](https://sites.google.com/view/ohkawalab)
 
 
-## 📌 おまけ
+## 🐵 おまけ
 
 + 🔗 河野茂
   ([YouTube](https://www.youtube.com/channel/UCye1weqCkLbKtwmbBIXhD7A),
