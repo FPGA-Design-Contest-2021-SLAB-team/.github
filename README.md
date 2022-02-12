@@ -1,2 +1,1 @@
-# .github
-💡 Introduction
+# 💡 NU-Slab Developers' Profile
