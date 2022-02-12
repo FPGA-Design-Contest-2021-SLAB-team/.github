@@ -11,9 +11,7 @@
 ## 🐨 大学 関連
 
 <details>
-<summary>
-details
-</summary>
+<summary></summary>
 
 + 🔗 [長崎大学](https://www.nagasaki-u.ac.jp/)
     ([YouTube](https://www.youtube.com/user/NagasakiUniv),
