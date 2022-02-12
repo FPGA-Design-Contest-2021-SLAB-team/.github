@@ -93,15 +93,12 @@
 + 🔗 河野茂
   ([YouTube](https://www.youtube.com/channel/UCye1weqCkLbKtwmbBIXhD7A),
    [Twitter](https://twitter.com/ShigeruKohno))
-
 + 🔗 酒井智弥
   ([YouTube](https://www.youtube.com/playlist?list=PLqcsCBw9njgBZDP-VsYt6hjROK8mhrmOa),
    [GitHub](https://github.com/tsakailab))
-
 + 🔗 小林透
   ([YouTube](https://www.youtube.com/user/kluger2toto),
    [Twitter](https://twitter.com/intellirobo))
-
 + 🔗 金谷一朗
   ([YouTube](https://www.youtube.com/c/kanayafrica),
    [GitHub](https://github.com/kanaya),
@@ -109,7 +106,6 @@
    [BeHance](https://www.behance.net/kanaya),
    [Tumblr](https://madlab.tumblr.com/),
    [Podcast](https://www.steam.fm/))
-
 + 🔗 薗田光太郎
   ([YouTube](https://youtube.com/c/KotaroSonoda),
    [GitHub](https://github.com/helmenov))
