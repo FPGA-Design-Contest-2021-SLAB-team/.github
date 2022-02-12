@@ -3,24 +3,24 @@
 ## 📌 研究室 関連
 
 + 🔗 [柴田研究室](http://slab.cis.nagasaki-u.ac.jp/)
-  + [YouTube](https://www.youtube.com/channel/UCpryYG30B-3W4KIk7xDqjNg/)
-  ,[GitHub](https://github.com/nu-slab/)
+  + [YouTube](https://www.youtube.com/channel/UCpryYG30B-3W4KIk7xDqjNg/),
+    [GitHub](https://github.com/nu-slab/)
 
 
 ## 📌 大学 関連
 
 + 🔗 [長崎大学](https://www.nagasaki-u.ac.jp/)
-+ 🔗 [長崎大学 YouTube](https://www.youtube.com/user/NagasakiUniv)
-+ 🔗 [長崎大学 Twitter](https://twitter.com/NU_kouhou)
+  + [YouTube](https://www.youtube.com/user/NagasakiUniv),
+    [Twitter](https://twitter.com/NU_kouhou)
 
 + 🔗 [長崎大学工学部・長崎大学大学院工学研究科](http://www.eng.nagasaki-u.ac.jp)
-+ 🔗 [長崎大学工学部・長崎大学大学院工学研究科 YouTube](https://www.youtube.com/channel/UCO_xpbwdZi_leI-k_Kjd6Rg)
+  + [YouTube](https://www.youtube.com/channel/UCO_xpbwdZi_leI-k_Kjd6Rg)
 
 + 🔗 [長崎大学工学部工学科 情報工学コース](https://www.cis.nagasaki-u.ac.jp/program/contents/index.html)
 
 + 🔗 [長崎大学 情報データ科学部](https://www.idsci.nagasaki-u.ac.jp/)
-+ 🔗 [長崎大学 情報データ科学部 YouTube](https://www.youtube.com/channel/UCb32qH4nu-Z9K_jVYCZVdjA)
-+ 🔗 [長崎大学 情報データ科学部 Twitter](https://twitter.com/itrecurnagasaki)
+  + [YouTube](https://www.youtube.com/channel/UCb32qH4nu-Z9K_jVYCZVdjA),
+    [Twitter](https://twitter.com/itrecurnagasaki)
 
 + 🔗 [長崎大学 主体的学習促進支援システム | LACS](https://lacs.nagasaki-u.ac.jp/)
 + 🔗 [長崎大学 学務情報システム | NU-Web](https://nuweb.nagasaki-u.ac.jp/)
