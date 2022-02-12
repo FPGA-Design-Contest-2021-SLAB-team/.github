@@ -57,20 +57,20 @@
 
 ## 📌 学会・研究団体 関連
 
-+ 🔗 [RECONF](https://www.ieice.org/~reconf/)
-    ([Link1](https://www.am.ics.keio.ac.jp/reconf/))
-+ 🔗 [HEART](http://www.cs.tsukuba.ac.jp/~yoshiki/HEART/)
++ 🔗 [電子情報通信学会 リコンフィギャラブルシステム研究専門委員会 (IEICE RECONF)](https://www.ieice.org/~reconf/)
+    ([1](https://www.am.ics.keio.ac.jp/reconf/))
++ 🔗 [International Symposium on Highly Efficient Accelerators and Reconfigurable Technologies (HEART)](http://www.cs.tsukuba.ac.jp/~yoshiki/HEART/)
 + 🔗 [CANDAR](https://is-candar.org/)
-+ 🔗 [FPT](http://www.icfpt.org/)
-+ 🔗 [FPT'21 FPGA Design Competition](https://wp.rs.cs.okayama-u.ac.jp/design-contest-fpt2021/)
-    ([Link1](https://parallel.auckland.ac.nz/fpt21/),
-     [Link2](https://wwp.shizuoka.ac.jp/fpt-design-contest/ftp2x/))
++ 🔗 [International Conference on Field Programmable Technology (ICFPT)](http://www.icfpt.org/)
+  + 🔗 [FPT'21 FPGA Design Competition](https://wp.rs.cs.okayama-u.ac.jp/design-contest-fpt2021/)
+      ([1](https://parallel.auckland.ac.nz/fpt21/),
+       [2](https://wwp.shizuoka.ac.jp/fpt-design-contest/ftp2x/))
 + 🔗 [第10回 相磯秀夫杯 FPGAデザインコンテスト](https://wp.rs.cs.okayama-u.ac.jp/design-contest-aiso10/)
-    ([Link1](https://wwp.shizuoka.ac.jp/fpt-design-contest/aiso10/))
+    ([1](https://wwp.shizuoka.ac.jp/fpt-design-contest/aiso10/))
 + 🔗 [アダプティブコンピューティング研究推進体(ACRi)](https://www.acri.c.titech.ac.jp/wp/)
     ([YouTube](https://www.youtube.com/channel/UCL15_5A9JKcVrmFUcMto6-Q),
-    [Twitter](https://twitter.com/kise_acri))
-+ 🔗 [ACRi Blog](https://www.acri.c.titech.ac.jp/wordpress/)
+     [Twitter](https://twitter.com/kise_acri),
+     [Blog](https://www.acri.c.titech.ac.jp/wordpress/))
 
 
 ## 📌 他大学の FPGA 関連研究室
