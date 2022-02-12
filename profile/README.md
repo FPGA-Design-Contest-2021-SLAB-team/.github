@@ -1,4 +1,4 @@
-# 💡 Hi, NU-Slab
+# 💡 Hi, I'm NU-Slab 👋
 
 ## 🐼 研究室 関連
 
