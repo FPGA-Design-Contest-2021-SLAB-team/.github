@@ -37,15 +37,12 @@
 + 🔗 Discord / Discord Inc.
   ([App Store](https://apps.apple.com/jp/app/id985746746),
    [Google Play](https://play.google.com/store/apps/details?id=com.discord))
-
 + 🔗 NAGASAKI-U / 長大アプリ開発者
   ([App Store](https://apps.apple.com/jp/app/nagasaki-u/id1544014061),
    [Google Play](https://play.google.com/store/apps/details?id=jp.ac.nagasakiu.chodaiapp))
-
 + 🔗 COCOA - 新型コロナウイルス接触確認アプリ / 厚生労働省健康局
   ([App Store](https://apps.apple.com/jp/app/id1516764458),
    [Google Play](https://play.google.com/store/apps/details?id=jp.go.mhlw.covid19radar))
-
 + 🔗 新型コロナワクチン接種証明書アプリ / デジタル庁
   ([App Store](https://apps.apple.com/jp/app/id1593815264),
    [Google Play](https://play.google.com/store/apps/details?id=jp.go.digital.vrs.vpa)
@@ -62,24 +59,17 @@
 
 + 🔗 [RECONF](https://www.ieice.org/~reconf/)
     ([Link1](https://www.am.ics.keio.ac.jp/reconf/))
-
 + 🔗 [HEART](http://www.cs.tsukuba.ac.jp/~yoshiki/HEART/)
-
 + 🔗 [CANDAR](https://is-candar.org/)
-
 + 🔗 [FPT](http://www.icfpt.org/)
-
 + 🔗 [FPT'21 FPGA Design Competition](https://wp.rs.cs.okayama-u.ac.jp/design-contest-fpt2021/)
     ([Link1](https://parallel.auckland.ac.nz/fpt21/),
      [Link2](https://wwp.shizuoka.ac.jp/fpt-design-contest/ftp2x/))
-
 + 🔗 [第10回 相磯秀夫杯 FPGAデザインコンテスト](https://wp.rs.cs.okayama-u.ac.jp/design-contest-aiso10/)
     ([Link1](https://wwp.shizuoka.ac.jp/fpt-design-contest/aiso10/))
-
 + 🔗 [アダプティブコンピューティング研究推進体(ACRi)](https://www.acri.c.titech.ac.jp/wp/)
     ([YouTube](https://www.youtube.com/channel/UCL15_5A9JKcVrmFUcMto6-Q),
     [Twitter](https://twitter.com/kise_acri))
-
 + 🔗 [ACRi Blog](https://www.acri.c.titech.ac.jp/wordpress/)
 
 
