@@ -7,11 +7,8 @@
      [GitHub](https://github.com/nu-slab/),
      [Wiki](http://slab.cis.nagasaki-u.ac.jp/wiki/))
 
-<details>
-<summary>
-
 ## 🐨 大学 関連
-</summary>
+<details>
 
 + 🔗 [長崎大学](https://www.nagasaki-u.ac.jp/)
     ([YouTube](https://www.youtube.com/user/NagasakiUniv),
