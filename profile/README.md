@@ -52,8 +52,8 @@
 ## 🐮 FPGA 関連リポジトリ
 
 + 🔗 [OpenFC - an Open FPGA Cluster Toolkit](https://lut.eee.u-ryukyu.ac.jp/openfc/)
-+ 🔗 [ikwzm / udmabuf](https://github.com/ikwzm/udmabuf)
-+ 🔗 [w3arycod3r / fpga-defender](https://github.com/w3arycod3r/fpga-defender)
++ 🔗 [ikwzm/udmabuf - GitHub](https://github.com/ikwzm/udmabuf)
++ 🔗 [w3arycod3r/fpga-defender - GitHub](https://github.com/w3arycod3r/fpga-defender)
 
 
 ## 🐯 学会・研究団体 関連
