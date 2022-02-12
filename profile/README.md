@@ -34,17 +34,21 @@
 
 ## 📌 便利アプリ
 
-+ 🔗 [Discord / Discord Inc.](https://apps.apple.com/jp/app/id985746746)
-+ 🔗 [Discord / Discord Inc.](https://play.google.com/store/apps/details?id=com.discord)
++ 🔗 Discord / Discord Inc.
+  ([App Store](https://apps.apple.com/jp/app/id985746746),
+   [Google Play](https://play.google.com/store/apps/details?id=com.discord))
 
-+ 🔗 [NAGASAKI-U / 長大アプリ開発者](https://apps.apple.com/jp/app/nagasaki-u/id1544014061)
-+ 🔗 [NAGASAKI-U / 長大アプリ開発者](https://play.google.com/store/apps/details?id=jp.ac.nagasakiu.chodaiapp)
++ 🔗 NAGASAKI-U / 長大アプリ開発者
+  ([App Store](https://apps.apple.com/jp/app/nagasaki-u/id1544014061),
+   [Google Play](https://play.google.com/store/apps/details?id=jp.ac.nagasakiu.chodaiapp))
 
-+ 🔗 [COCOA - 新型コロナウイルス接触確認アプリ / 厚生労働省健康局](https://apps.apple.com/jp/app/id1516764458)
-+ 🔗 [COCOA - 新型コロナウイルス接触確認アプリ / 厚生労働省健康局](https://play.google.com/store/apps/details?id=jp.go.mhlw.covid19radar)
++ 🔗 COCOA - 新型コロナウイルス接触確認アプリ / 厚生労働省健康局
+  ([App Store](https://apps.apple.com/jp/app/id1516764458),
++  [Google Play](https://play.google.com/store/apps/details?id=jp.go.mhlw.covid19radar))
 
-+ 🔗 [新型コロナワクチン接種証明書アプリ / デジタル庁](https://apps.apple.com/jp/app/id1593815264)
-+ 🔗 [新型コロナワクチン接種証明書アプリ / デジタル庁](https://play.google.com/store/apps/details?id=jp.go.digital.vrs.vpa)
++ 🔗 新型コロナワクチン接種証明書アプリ / デジタル庁
+  ([App Store](https://apps.apple.com/jp/app/id1593815264),
++  [Google Play](https://play.google.com/store/apps/details?id=jp.go.digital.vrs.vpa)
 
 
 ## 📌 FPGA 関連リポジトリ
