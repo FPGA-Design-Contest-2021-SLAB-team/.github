@@ -84,7 +84,7 @@
 + 🔗 [東京工業大学 中原研究室](http://naklab.wpblog.jp/)
     ([Twitter](https://twitter.com/HirokiNakahara5))
 + 🔗 [慶應義塾大学 ふんが研(天野研究室)](https://www.am.ics.keio.ac.jp/b3web/)
-    ([Link1](https://www.am.ics.keio.ac.jp/wp/),
+    ([1](https://www.am.ics.keio.ac.jp/wp/),
      [Twitter](https://twitter.com/hungalab))
 + 🔗 [東海大学 大川研究室](https://sites.google.com/view/ohkawalab)
 
