@@ -1,7 +1,5 @@
 # 💡 Hi, I'm NU-Slab 👋
 
----
-
 ## 🐼 研究室 関連
 
 + 🔗 [柴田研究室](http://slab.cis.nagasaki-u.ac.jp/)
@@ -10,10 +8,13 @@
      [Wiki](http://slab.cis.nagasaki-u.ac.jp/wiki/))
 
 
-## 🐨 大学 関連
+
 
 <details>
-<summary></summary>
+<summary>
+
+## 🐨 大学 関連
+</summary>
 
 + 🔗 [長崎大学](https://www.nagasaki-u.ac.jp/)
     ([YouTube](https://www.youtube.com/user/NagasakiUniv),
