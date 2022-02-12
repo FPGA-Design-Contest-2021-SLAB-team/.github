@@ -7,8 +7,11 @@
      [GitHub](https://github.com/nu-slab/),
      [Wiki](http://slab.cis.nagasaki-u.ac.jp/wiki/))
 
+<details>
+<summary>
 
 ## 🐨 大学 関連
+</summary>
 
 + 🔗 [長崎大学](https://www.nagasaki-u.ac.jp/)
     ([YouTube](https://www.youtube.com/user/NagasakiUniv),
@@ -25,6 +28,11 @@
 + 🔗 [長崎大学 情報通信基盤システム SSL VPN Service](https://v-conn.nagasaki-u.ac.jp/)
 + 🔗 [長崎大学 健康管理システム](https://hms.hc.nagasaki-u.ac.jp/)
 + 🔗 [長崎大学 ワクチン接種履歴システム](https://vhs.hc.nagasaki-u.ac.jp/)
+</details>
+
+
+
+
 
 
 ## 🐻 便利ツール
