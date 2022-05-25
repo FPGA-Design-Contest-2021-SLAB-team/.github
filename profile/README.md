@@ -14,7 +14,7 @@
       <img width="16" src="http://www.google.com/s2/favicons?domain=github.com" alt="GitHub">
       <a href="https://github.com/nu-slab/">GitHub</a><br>
       <!-- <img width="16" src="http://www.google.com/s2/favicons?domain=github.com" alt="GitHub"> -->
-      <a href="https://github.com/nu-slab/.internal/blob/main/README.md">:lock: 在籍者向け</a>
+      <a href="https://github.com/nu-slab/.internal/blob/main/README.md">:lock: Internal</a>
     </td>
   </tr>
 </tbody></table>
