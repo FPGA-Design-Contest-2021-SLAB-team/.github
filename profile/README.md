@@ -17,7 +17,7 @@
   </tr>
   <tr>
     <td>
-      <a href="https://github.com/nu-slab/.internal/blob/main/README.md">:lock: Internal</a>
+      <a href="https://github.com/nu-slab/.internal/blob/main/README.md">:lock: Internal page</a>
     </td>
     <td>在籍者のみ閲覧可能</td>
   </tr>
