@@ -1,9 +1,13 @@
 # 👋 We're NU-Slab Developers
 
-<img width="16" src="http://www.google.com/s2/favicons?domain=github.com" alt="GitHub">
-<a href="https://github.com/nu-slab/.internal/blob/main/src/repository.md">GitHub repository list</a>
-
 <table><tbody>
+  <tr>
+    <td>
+      <img width="16" src="http://www.google.com/s2/favicons?domain=github.com" alt="GitHub">
+      <a href="https://github.com/nu-slab/.internal/blob/main/src/repository.md">GitHub Repository のリスト</a>
+    </td>
+    <td></td>
+  </tr>
   <tr>
     <td>
       <img width="16" src="http://www.google.com/s2/favicons?domain=slab.cis.nagasaki-u.ac.jp" alt="Link">
